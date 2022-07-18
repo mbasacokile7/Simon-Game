@@ -9,5 +9,5 @@ To play the simon game. Review the following video: https://www.youtube.com/watc
 
 The user interface is showwn below:
 
-![alt text](https://github.com/mbasacokile7/Simon-Game/blob/master/User-Interface.PNGhttps://github.com/mbasacokile7/Simon-Game/blob/master/User-Interface.PNG)
+![alt text](https://github.com/mbasacokile7/Simon-Game/blob/master/User-Interface.PNG)
 
